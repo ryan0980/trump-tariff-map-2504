@@ -1,0 +1,60 @@
+- Andorra
+- Anguilla
+- Antigua and Barbuda
+- Aruba
+- Bahamas
+- Bahrain
+- Barbados
+- Bermuda
+- British Indian Ocean Territory
+- British Virgin Islands
+- Cape Verde
+- Cayman Islands
+- Christmas Island
+- Cocos (Keeling) Islands
+- Comoros
+- Cook Islands
+- Cura?ao
+- Dominica
+- Falkland Islands
+- Fiji
+- French Polynesia
+- Gambia
+- Gibraltar
+- Grenada
+- Guadeloupe
+- Heard and McDonald Islands
+- Kiribati
+- Kosovo
+- Liechtenstein
+- Maldives
+- Malta
+- Marshall Islands
+- Martinique
+- Mauritius
+- Mayotte
+- Micronesia (Federated States of)
+- Monaco
+- Montserrat
+- Nauru
+- Norfolk Island
+- Reunion
+- Saint Helena
+- Saint Kitts and Nevis
+- Saint Lucia
+- Saint Pierre and Miquelon
+- Saint Vincent and the Grenadines
+- Samoa
+- San Marino
+- Sao Tome and Principe
+- Singapore
+- Sint Maarten
+- Solomon Islands
+- South Sudan
+- Svalbard and Jan Mayen
+- Timor-Leste
+- Tokelau
+- Tonga
+- Turks and Caicos Islands
+- Tuvalu
+- Vanuatu
