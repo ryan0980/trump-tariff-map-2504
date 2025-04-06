@@ -1,3 +1,15 @@
+
+# 22_1_1 关税地图网站
+
+练手网站，可视化美国新关税
+
+[mapshaper](https://mapshaper.org/)
+[GIS 大饼 | GaoHR | 全球 1:100 万基础地理数据](https://gaohr.win/site/blogs/2019/2019-12-02-GIS-basic-data-of-world.html)
+[天地图-重要地理信息数据](https://zydm.tianditu.gov.cn/)
+[日经中文网--日本经济新闻中文版](https://cn.nikkei.com/index.php)
+
+以下国家在地图中未找到匹配，将不会被正确显示：
+
 - Andorra
 - Anguilla
 - Antigua and Barbuda
