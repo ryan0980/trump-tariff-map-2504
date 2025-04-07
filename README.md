@@ -1,7 +1,7 @@
 
 # 22_1_1 关税地图网站
 
-练手网站，可视化美国新关税
+可视化美国新关税
 
 [mapshaper](https://mapshaper.org/)
 [GIS 大饼 | GaoHR | 全球 1:100 万基础地理数据](https://gaohr.win/site/blogs/2019/2019-12-02-GIS-basic-data-of-world.html)
